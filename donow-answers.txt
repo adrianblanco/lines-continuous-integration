@@ -1,0 +1,76 @@
+Do Now
+Wednesday, September 19, 2018
+
+Reviewing: Names and purposes of those thousands of files and software packages
+
+0) What command do you need to run when you first download a new node.js project?
+
+
+
+1) What is the name of the folder our code goes into? What is it short for?
+
+
+
+
+
+2) What is package.json?
+
+
+
+
+
+3) What is a dependency?
+
+
+
+
+4) What is node_modules?
+
+
+
+
+5) What is .eslintrc.json?
+
+
+
+
+6) Name 3 build systems. Which one do we use?
+
+
+
+
+7) What is a collection of tests called?
+
+
+
+8) Name some software packages related to testing. (Random guesses will work best if you either drank a hot beverage this morning or went to really spiritual yoga)
+
+
+
+9) What is Babel?
+
+
+
+
+10) What is .babelrc?
+
+
+
+11) Tests can either be names something.test.js or something.spec.js. What is spec short for? 
+
+
+
+12) What is .gitignore?
+
+
+
+
+12) Do you want even more files like .babelrc and .eslintrc.json and .gitignore?
+
+
+
+
+
+14) Name 3 JavaScript events.
+
+
